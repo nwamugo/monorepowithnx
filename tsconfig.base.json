@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@monorepowithnx/admin": ["libs/admin/src/index.ts"],
+      "@monorepowithnx/poi": ["libs/poi/src/index.ts"],
+      "@monorepowithnx/visitor": ["libs/visitor/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

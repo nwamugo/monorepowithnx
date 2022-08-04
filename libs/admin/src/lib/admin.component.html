@@ -1,0 +1,10 @@
+<div class="container">
+  <div class="chart" *ngIf="pieChartData.datasets[0]?.data?.length">
+    <canvas
+      height="100"
+      baseChart
+      [data]="pieChartData"
+      type="pie"
+    ></canvas>
+  </div>
+</div>

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "lat": 6.13371,
+    "lng": 6.79068,
+    "name": "Onicha",
+    "description": "A naghi asu Bekee na main market",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Onitsha_City_View.jpg"
+  },
+  {
+    "id": 2,
+    "lat": 5.50695,
+    "lng": 7.03990,
+    "name": "Owere",
+    "description": "One of the last holds of the Nigeria-Biafra war",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Orji_bridge_imo_owerri_Nigeria.jpg"
+  },
+  {
+    "id": 3,
+    "lat": 6.43879,
+    "lng": 7.52053,
+    "name": "Enugwu",
+    "description": "The Oshie clan (Eke, Nsude, Amokwe etc) of Udi Lga of Enugwu State don't inter-marry and also, can't hurt themselves. Blood line!",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Akwata_Roundabout.jpg"
+  },
+  {
+    "id": 4,
+    "lat": 6.22232,
+    "lng": 7.08026,
+    "name": "Oka",
+    "description": "Political capital of present day Anambara",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Awka_Topography_2016.jpg"
+  },
+  {
+    "id": 5,
+    "lat": 5.72256,
+    "lng": 6.83035,
+    "name": "Ugwuta",
+    "description": "Have you ever wondered why you pronounced Oguta as Ugwuta? \n Well that's because the latter is the real name",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mmanwu_Oguta.jpg"
+  },
+  {
+    "id": 6,
+    "lat": 6.86080,
+    "lng": 7.39609,
+    "name": "Nsuka",
+    "description": "In Igbo phonotatic rule, there is no consonant cluster",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/The_plan_of_Eziani_in_Nsukka_7.jpg"
+  },
+  {
+    "id": 7,
+    "lat": 6.32232,
+    "lng": 6.46644,
+    "name": "Isele-Ukwu",
+    "description": "NYSC orientation camp for Delta is located here",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Welcome_to_Issele-Uku_Kingdom_signpost%2C_Delta_state.jpg"
+  },
+  {
+    "id": 8,
+    "lat": 6.32839,
+    "lng": 8.10349,
+    "name": "Abakaliki",
+    "description": "Political capital of present day Ebonyi",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/IMG-20220310-WA0062.jpg"
+  },
+  {
+    "id": 9,
+    "lat": 5.11731,
+    "lng": 7.37347,
+    "name": "Aba",
+    "description": "Industrial hub of Biafra",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aba_Women_of_Nigeria_%28early_20th_century%29.jpg"
+  },
+  {
+    "id": 10,
+    "lat": 6.19904,
+    "lng": 6.71975,
+    "name": "Asaba",
+    "description": "Political capital of present day Delta",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Nnebisi_road_Asaba_1.jpg"
+  },
+  {
+    "id": 11,
+    "lat": 5.83527,
+    "lng": 7.01811,
+    "name": "Olu",
+    "description": "Umuowa, Umudioka exist here",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Orlu_Local_Government_Teaching_Hospital.jpg"
+  },
+  {
+    "id": 12,
+    "lat": 5.52046,
+    "lng": 7.49345,
+    "name": "Umuahia",
+    "description": "Political capital of present day Abia",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ojukwu%27s_Bunker.jpg"
+  },
+  {
+    "id": 13,
+    "lat": 5.83148,
+    "lng": 7.39106,
+    "name": "Okigwe",
+    "description": "In present day Imo",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Signage_of_Okigwe_Local_Government_Headquarters.jpg"
+  },
+  {
+    "id": 14,
+    "lat": 6.01211,
+    "lng": 6.91171,
+    "name": "Nnewi",
+    "description": "Biafran 11th Division retreated to Nnewi when Onicha was captured",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nnewi_Skyview_1.jpg"
+  },
+  {
+    "id": 15,
+    "lat": 6.18174,
+    "lng": 6.62546,
+    "name": "Igbo-Uzo",
+    "description": "In present day Delta",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/%E1%BB%8Cgba_tum_tum_na-agba_n%27okporo_%E1%BB%A5z%E1%BB%8D.jpg"
+  },
+  {
+    "id": 16,
+    "lat": 6.15414,
+    "lng": 8.05120,
+    "name": "Ezza",
+    "description": "In present day Ebonyi",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Onuoke_Post_Office%2C_Ezza_South-Ebonyi.jpg"
+  },
+  {
+    "id": 17,
+    "lat": 4.86871,
+    "lng": 6.97909,
+    "name": "Ikwere",
+    "description": "7 clans make up the Ikwere land",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Wrestlers_locked_in_action.jpg"
+  },
+  {
+    "id": 18,
+    "lat": 6.02622,
+    "lng": 7.07503,
+    "name": "Ekwulobia",
+    "description": "In Anambara",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ijele_masquerade_from_Anambra_State.jpg"
+  },
+  {
+    "id": 19,
+    "lat": 4.84409,
+    "lng": 6.99346,
+    "name": "Igweocha",
+    "description": "Renamed by slavemasters to Port Harcourt, after the name of their own fellow, Lewis Harcourt",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Port_Harcourt_Pleasure_Park_-_Talking_a_walk.jpg"
+  },
+  {
+    "id": 20,
+    "lat": 6.19138,
+    "lng": 6.52572,
+    "name": "Ogwashi-Ukwu",
+    "description": "In present day Delta",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Delta_state_Polytechnic%2C_Ogwashi-Uku%2C_Delta_state_11.jpg"
+  }
+]

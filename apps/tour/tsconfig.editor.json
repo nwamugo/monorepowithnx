@@ -1,6 +1,6 @@
 {
   "extends": "./tsconfig.json",
-  "include": ["**/*.ts"],
+  "include": ["**/*.ts", "../../libs/poi/src/lib/poi.service.ts", "../../libs/poi/src/lib/poi.service.spec.ts"],
   "compilerOptions": {
     "types": ["jest", "node"]
   }

@@ -1,0 +1,10 @@
+div.chart {
+  border: 2px solid #000;
+  border-top: none;
+  padding: 1% 8%;
+  margin: auto 20%;
+}
+
+div.container {
+  height: 100vh;
+}

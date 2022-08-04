@@ -1,0 +1,23 @@
+<google-map height="100%" width="auto" [center]="poi" *ngIf="poi$ | async as poi; else noneSelected">
+  <map-marker #marker="mapMarker" [position]="poi" (mapClick)="showInfo(marker, poi.id)"></map-marker>
+  <map-info-window>
+    <mat-card>
+      <mat-card-header>
+        <mat-card-title>{{poi.name}}</mat-card-title>
+      </mat-card-header>
+      <img [src]="poi.imgUrl" [alt]="poi.description" mat-card-image>
+      <mat-card-content>
+        <p>{{poi.description}}</p>
+      </mat-card-content>
+    </mat-card>
+  </map-info-window>
+</google-map>
+<ng-template #noneSelected>
+  <div class="no-selection">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Biafra.svg"
+      alt="Biafra flag"
+      mat-card-image
+    >
+  </div>
+</ng-template>
