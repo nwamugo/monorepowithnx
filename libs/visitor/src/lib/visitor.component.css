@@ -3,7 +3,11 @@
 }
 
 .sidenav {
-  width: 15%;
+  width: 25%;
+}
+
+.sidenav-handset {
+  width: 70%;
 }
 
 .sidenav .mat-toolbar {
@@ -23,6 +27,6 @@
 mat-card {
   background: #F8D41A;
   color: #333;
-  margin-left: 3.5%;
+  margin: 0 auto;
   width: 80%;
 }

@@ -1,5 +1,8 @@
 .no-selection {
-  margin: 15% auto 0;
   height: 60%;
   width: 40%;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translateX(-50%);
 }
